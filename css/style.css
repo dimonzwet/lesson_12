@@ -37,6 +37,9 @@ body {
 	margin: 100px 0px 20px;
 }
 /* ================================================================ */
+.boat {
+	position: relative;
+}
 .radar {
 	position: relative;
 }
